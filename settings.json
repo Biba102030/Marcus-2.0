@@ -1,0 +1,18 @@
+{
+  "voice": "ru-RU-DmitryNeural",
+  "speed_factor": 1.1,
+  "wake_words": [
+    "маркус", "маркуса", "маркусе",
+    "эй маркус", "эй маркуса", "ей маркус",
+    "marcus", "markus", "arkus",
+    "hey marcus", "ei markus", "hey markus"
+  ],
+  "wake_volume_min": 0.008,
+  "wake_chunk_secs": 2.0,
+  "silence_threshold": 0.015,
+  "silence_secs": 3.0,
+  "max_context": 6,
+  "max_tokens": 8192,
+  "tts_min_chunk_len": 30,
+  "cache_enabled": true
+}

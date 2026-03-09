@@ -1,0 +1,2 @@
+browser_default=Chrome
+browser_default=Chrome
